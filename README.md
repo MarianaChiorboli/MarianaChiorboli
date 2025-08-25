@@ -6,7 +6,7 @@
 
 <p>Estágiaria na Docket<br/> 
 Atualmente estou como estagiária de Inteligência Artificial e Machine Learning, com foco em analises de dados para treinamento de ML. <br/>
-Java ☕ | Python 🐍 | SQL 🗄️ | Excel 📊 </p>
+</p>
 
 ### 🚀 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
